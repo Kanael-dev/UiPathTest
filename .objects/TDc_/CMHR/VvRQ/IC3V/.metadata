@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Phones  Touch",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "IC3VNMuin0qOH4Qms5MGxw",
+  "Reference": "CmovVfRxS0WAU2_JuIlBHQ/IC3VNMuin0qOH4Qms5MGxw",
+  "ParentRef": "CmovVfRxS0WAU2_JuIlBHQ/VvRQuPMsDUuM-owCylouMA",
+  "Created": "2025-02-26T14:15:40.393695Z",
+  "Updated": "2025-02-26T14:15:40.393695Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

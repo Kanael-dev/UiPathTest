@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KkSsG7xGA0qIcJH7HoC1yQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="webscraper.io/test-sites/e-commerce/static" CVScreenId="9bf61ed6-4e78-4bd9-8f15-2591c113ba26" CvElementArea="354, 477, 17, 18" CvTextArea="141, 480, 54, 13" CvTextArgument="Phones" CvType="ArrowButton" DesignTimeRectangle="126, 469, 261, 40" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;Phones &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' aria-label='Navigation category' tag='A' type='' class='category-link nav-link ' check:innerText='Phones' /&gt;" Guid="bb86a51f-3be2-4267-88f3-84f2bd505e5c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Static | Web Scraper Test Sites' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9bf61ed6-4e78-4bd9-8f15-2591c113ba26" CvElementArea="354, 477, 17, 18" CvType="ArrowButton" DesignTimeRectangle="359, 482, 12, 8" FuzzySelectorArgument="&lt;webctrl type='' parentid='side-menu' tag='I' class='ws-icon  ws-icon-right ' aaname='' /&gt;" Guid="497654f5-1085-4634-9864-0124d9599a5f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b64a2d4457a2c160ac02aafcdd6aab08.png" xmlns="">0qGvKUDKFd0act1ZUDwZd3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

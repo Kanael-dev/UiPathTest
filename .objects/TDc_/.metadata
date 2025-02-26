@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Static  Web Scraper Test Sites",
+  "Type": "App",
+  "Id": "TDc_aBTEvU2KuRz7AFHbwA",
+  "Reference": "CmovVfRxS0WAU2_JuIlBHQ/TDc_aBTEvU2KuRz7AFHbwA",
+  "Created": "2025-02-26T14:00:13.8074739Z",
+  "Updated": "2025-02-26T14:00:13.8074739Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

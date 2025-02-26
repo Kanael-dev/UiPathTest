@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wdARMnN0UU6HaC6tewsF7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com/c/67be7084-39cc-8010-bb86-2f19cef47c37" CVScreenId="652d7e15-cd9a-4e22-834c-273a849a8814" CvElementArea="353, 522, 17, 19" CvTextArea="141, 525, 54, 13" CvTextArgument="Phones" CvType="ArrowButton" DesignTimeRectangle="126, 514, 261, 40" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;Phones &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9; &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' aria-label='Navigation category' tag='A' type='' class='category-link nav-link ' check:innerText='Phones' /&gt;" Guid="88590209-5036-416f-bd35-03eb5661df00" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Static | Web Scraper Test Sites' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="abe498ab7bbe3b7146a17f3b158a3d1d.png" xmlns="">0A4w2dZ734UWvzEKeNwcsbw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

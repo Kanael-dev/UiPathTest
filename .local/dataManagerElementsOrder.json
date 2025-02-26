@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cleanedDescription&Sequence_10",
+        "boolSite&Sequence_1",
+        "Database_Extraida&Sequence_1",
+        "Output_Database&Sequence_1",
+        "linkURL&Sequence_1",
+        "validadorSite&Sequence_1",
+        "DataTableV2&Sequence_1",
+        "dtInput&Sequence_1",
+        "dtOutput&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

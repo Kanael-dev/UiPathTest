@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="neK0lYzKhUiYV7gVYBkgcA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="webscraper.io/test-sites/e-commerce/static/phones" CVScreenId="557b4d99-8f58-4854-8e9a-632cf70734f4" CvTextArea="161, 565, 44, 13" CvTextArgument="Touch" CvType="Text" DesignTimeRectangle="126, 554, 261, 40" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='Navigation subcategory' tag='A' type='' class='nav-link subcategory-link ' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;Touch &amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;&amp;#x9;' check:innerText='Touch' /&gt;" Guid="2c2d0306-6ea0-421a-8183-8142c1d4ff2f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Static | Web Scraper Test Sites' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="7ad1f8fc4c432936f764bf51a51d2d89.png" xmlns="">01MItOE4jqEua9ywMGS1Kbw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

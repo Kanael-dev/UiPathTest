@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Phones",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PEsvv951t0CU2r1vSUsQhQ",
+  "Reference": "CmovVfRxS0WAU2_JuIlBHQ/PEsvv951t0CU2r1vSUsQhQ",
+  "ParentRef": "CmovVfRxS0WAU2_JuIlBHQ/VvRQuPMsDUuM-owCylouMA",
+  "Created": "2025-02-26T14:13:34.054554Z",
+  "Updated": "2025-02-26T14:13:34.054554Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

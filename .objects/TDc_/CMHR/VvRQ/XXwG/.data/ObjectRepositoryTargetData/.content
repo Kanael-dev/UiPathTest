@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5PhoqWvre0WdLwL5-wXXyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="webscraper.io/test-sites/e-commerce/static" CVScreenId="652d7e15-cd9a-4e22-834c-273a849a8814" CvTextArea="141, 443, 44, 13" CvTextArgument="Home" CvType="Text" DesignTimeRectangle="126, 432, 261, 40" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='side-menu' tag='A' type='' class='nav-link' aaname='Home' check:innerText='Home' /&gt;" Guid="3bed0bb3-a048-4623-baa3-9096b647219e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Static | Web Scraper Test Sites' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="e62c56fa7a4b16fbc342a0890d454beb.png" xmlns="">0jFaocw7Nw0izgoBVkhmCIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

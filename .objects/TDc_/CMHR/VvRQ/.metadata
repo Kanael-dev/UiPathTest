@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Static  Web Scraper Test Sites",
+  "Type": "Screen",
+  "Id": "VvRQuPMsDUuM-owCylouMA",
+  "Reference": "CmovVfRxS0WAU2_JuIlBHQ/VvRQuPMsDUuM-owCylouMA",
+  "ParentRef": "CmovVfRxS0WAU2_JuIlBHQ/CMHRWsE2_U6dborUI7VjGA",
+  "Created": "2025-02-26T14:00:13.8528442Z",
+  "Updated": "2025-02-26T14:00:13.8528442Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
